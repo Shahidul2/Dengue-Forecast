@@ -1,4 +1,4 @@
-# Dengue-Forecast
+# Dengue Forecast in Bangladesh
 
 Published Paper: https://link.springer.com/chapter/10.1007/978-981-97-9112-5_23
 
